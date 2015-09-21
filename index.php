@@ -4,7 +4,7 @@
 <title>Conver number to currency</title>
 </head>
 <body>
-<h2>Problem: User inputs number display results.</h2>
+<h2>Problem: User inputs number display currency format.</h2>
   <form method="POST">
     <input type="text" placeholder="String" name="string" />
       <input type="submit"/>
